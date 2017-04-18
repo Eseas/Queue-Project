@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1425820097 source:c:\c programos\queue project\main.c
+	"qtype.h"
+	"queue.h"
+
+1425582279 c:\c programos\queue project\qtype.h
+
+1425819442 c:\c programos\queue project\queue.h
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	"qtype.h"
+
+1425819594 source:c:\c programos\queue project\queue.c
+	"qtype.h"
+	"queue.h"
+
